@@ -15,6 +15,13 @@ button {
     margin-bottom: 20px;
 }
 
+.Feedback {
+    box-sizing: border-box;
+    background-color: lightgray;
+    color: white;
+    margin-bottom: 20px;
+}
+
 .question-1 {
     box-sizing: border-box;
     background-color: lightgray;
